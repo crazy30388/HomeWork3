@@ -127,7 +127,7 @@ public class Main {
         System.out.println("Маша теперь получает " + afterPromotion1 + " рублей, годовой" +
                 " доход вырос на " + difference1 + " рублей. Денис теперь " +
                 "получает " + afterPromotion2 + " рублей, годовой доход вырос" +
-                "на " + difference2 + " рублей. Кристина теперь получает " +  afterPromotion3 +
+                "на " + difference2 + " рублей, Кристина теперь получает " +  afterPromotion3 +
                 " рублей, годовой доход вырос на " + difference3 + " рублей");
     }
 }
